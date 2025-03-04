@@ -1,0 +1,10 @@
+﻿HeatFlux,Depth,MassLoss,MassRemain
+High,Surface,98.86%,1.136137134
+High,1cm,98.45%,1.554404145
+High,5cm,29.19%,70.80583883
+Low,Surface,93.51%,6.487785342
+Low,1cm,47.72%,52.27635783
+Low,5cm,6.60%,93.39603762
+Control,Surface,0.00%,100
+Control,1cm,0.00%,100
+Control,5cm,0.00%,100
